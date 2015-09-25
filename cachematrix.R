@@ -2,8 +2,9 @@
 ## The makeCacheMatrix function defines the functions needed to set and get
 ## inverted matrices. The cachesolve function will check if a matrix has been
 ## inverted and will then get the value from memory or proceed to set 
-## the inverted matrix with. The free variable i is used to signal whether
-## the inverse of x has been calculated and to return the inverse of x
+## the inverted matrix with solve().
+## The free variable i is used to signal whether the inverse of x has been
+## calculated and to return the inverse of x
 
 ## The makeCacheMatrix function
 
